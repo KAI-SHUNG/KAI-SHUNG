@@ -1,9 +1,6 @@
 <h1 align="center">
   <img src="./waterdr1p.svg" alt="waterdr1p" width="534">
 </h1>
-
-## Hi there 👋
-
 <!--
 **KAI-SHUNG/KAI-SHUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
