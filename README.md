@@ -1,11 +1,14 @@
 <h1 align="center">
   <img src="./waterdr1p.svg" alt="waterdr1p" width="534">
 </h1>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,py,md,go&amp;theme=light"
-       alt="C++, Python, Markdown, Go" />
+       alt="C++, Python, Markdown, Go" height="48">
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux,vscode,vim,ps&amp;theme=light"
-       alt="Git, Linux, VS Code, Vim, Photoshop" />
+       alt="Git, Linux, VS Code, Vim, Photoshop" height="48">
 </p>
 
 <!--
