@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="./waterdr1p.svg" alt="waterdr1p" width="534">
+</h1>
+
 ## Hi there 👋
 
 <!--
