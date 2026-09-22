@@ -3,12 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,py,md,go&amp;theme=light"
-       alt="C++, Python, Markdown, Go" height="96">
+  <img src="https://skillicons.dev/icons?i=py&amp;theme=light" width="64">
+  <img src="https://skillicons.dev/icons?i=cpp&amp;theme=light" width=80">
+  <img src="https://skillicons.dev/icons?i=go&amp;theme=light" width="80">
+  <img src="https://skillicons.dev/icons?i=md&amp;theme=light" width="64">
 </p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,vim,ps&amp;theme=light"
-       alt="Git, Linux, VS Code, Vim, Photoshop" height="64">
+<p align="center">  
+  <img src="https://skillicons.dev/icons?i=git&amp;theme=light" width="64">
+  <img src="https://skillicons.dev/icons?i=ubuntu&amp;theme=light" width="72">
+  <img src="https://skillicons.dev/icons?i=vscode&amp;theme=light" width="72">
+  <img src="https://skillicons.dev/icons?i=vim&amp;theme=light" width="72">
+  <img src="https://skillicons.dev/icons?i=ps&amp;theme=light" width="64">
 </p>
 
 <!--
