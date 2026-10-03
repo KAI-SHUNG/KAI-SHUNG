@@ -2,7 +2,7 @@
   <img src="./waterdr1p.svg" alt="waterdr1p" width="534">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=py&amp;theme=light" width="64">
   <img src="https://skillicons.dev/icons?i=cpp&amp;theme=light" width=80">
   <img src="https://skillicons.dev/icons?i=go&amp;theme=light" width="80">
@@ -14,7 +14,7 @@
   <img src="https://skillicons.dev/icons?i=vscode&amp;theme=light" width="72">
   <img src="https://skillicons.dev/icons?i=vim&amp;theme=light" width="72">
   <img src="https://skillicons.dev/icons?i=ps&amp;theme=light" width="64">
-</p>
+</p> -->
 
 <!--
 **KAI-SHUNG/KAI-SHUNG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
